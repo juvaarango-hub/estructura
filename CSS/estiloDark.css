@@ -1,3 +1,24 @@
 h1{
     color:gray;
 }
+/*UN ID*/
+#fotologo
+{
+width: 150px;
+height: 150px;
+}
+
+#fotoanimada
+{
+width: 300px;
+}
+
+/*UNA CLASS*/
+.bordes
+{
+    border: 2px solid blue;/*una propiedad y su valor*/
+}
+
+#formularioInscripcion >label{
+    color: red;
+}
