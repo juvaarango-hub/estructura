@@ -1,3 +1,23 @@
 h1{
     color: red;
 }
+
+#menu
+{
+    background-color: #592B02; /*fondo de la barra completa*/
+    padding: 15px;
+    box-shadow: 5px 2px 5px 2px black;
+}
+
+#menu li 
+{
+    color: white;
+    list-style: none;
+    display: inline-block;
+    padding-left: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
